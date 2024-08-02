@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Apartments
+  m_EditorClassIdentifier: 
+  m_GroupName: Apartments
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2aab99ea711a8407c85c5d9d74cf80fb
+  m_SerializeEntries:
+  - m_GUID: b59ceab7f0cc74cb695262e93e75a84d
+    m_Address: Assets/_MyVirtualTour/Scenes/Apartment 1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd0d244c9258f498f98207f9c148c042
+    m_Address: Assets/_MyVirtualTour/Scenes/Apartment 2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 386b1c96b5f9c4305b14503199dfcf6d
+    m_Address: Assets/_MyVirtualTour/Scenes/Apartment 3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 90f26eba527a54b1d889c5c0b7c1fdf0
+    m_Address: Assets/_MyVirtualTour/Scenes/Apartment 4.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fbaf891cb46b34aaa808327a4b06e68e
+    m_Address: Assets/_MyVirtualTour/Scenes/Apartment 5.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dbfb9a54ed8af485089fa642e11ccdbe
+    m_Address: Assets/_MyVirtualTour/Scenes/Apartment 6.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5baeeedb4882747469a264c7f5d4a336
+    m_Address: Assets/_MyVirtualTour/Scenes/Apartment 7.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9d4936b3c9204945a7f7d161060a01e
+    m_Address: Assets/_MyVirtualTour/Scenes/Apartment 8.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0d042b96c6b14729a92ba7a87092d5c
+    m_Address: Assets/_MyVirtualTour/Scenes/Apartment 9.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4ed09088c74147e0b93a65f889cad22
+    m_Address: Assets/_MyVirtualTour/Scenes/Apartment 10.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d62c675930e51472aafa27a991521f59, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4f7af879a239945e4a0aa91eb8d406d1, type: 2}
+    - {fileID: 11400000, guid: e6fedcf2a38e2443caf6bc9ae7318297, type: 2}

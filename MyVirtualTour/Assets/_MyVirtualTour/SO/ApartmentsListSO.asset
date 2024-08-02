@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f05568f51875644a7bf7fc6e721eb2d4, type: 3}
+  m_Name: ApartmentsListSO
+  m_EditorClassIdentifier: 
+  Apartments:
+  - ApartmentName: Apartment 1
+    ApartmentScene:
+      m_AssetGUID: b59ceab7f0cc74cb695262e93e75a84d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - ApartmentName: Apartment 2
+    ApartmentScene:
+      m_AssetGUID: bd0d244c9258f498f98207f9c148c042
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - ApartmentName: Apartment 3
+    ApartmentScene:
+      m_AssetGUID: 386b1c96b5f9c4305b14503199dfcf6d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - ApartmentName: Apartment 4
+    ApartmentScene:
+      m_AssetGUID: 90f26eba527a54b1d889c5c0b7c1fdf0
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - ApartmentName: Apartment 5
+    ApartmentScene:
+      m_AssetGUID: fbaf891cb46b34aaa808327a4b06e68e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - ApartmentName: Apartment 6
+    ApartmentScene:
+      m_AssetGUID: dbfb9a54ed8af485089fa642e11ccdbe
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - ApartmentName: Apartment 7
+    ApartmentScene:
+      m_AssetGUID: 5baeeedb4882747469a264c7f5d4a336
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - ApartmentName: Apartment 8
+    ApartmentScene:
+      m_AssetGUID: a9d4936b3c9204945a7f7d161060a01e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - ApartmentName: Apartment 9
+    ApartmentScene:
+      m_AssetGUID: c0d042b96c6b14729a92ba7a87092d5c
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - ApartmentName: Apartment 10
+    ApartmentScene:
+      m_AssetGUID: d4ed09088c74147e0b93a65f889cad22
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 1
